@@ -1,6 +1,6 @@
 # Hello World First Lab Page Hello!
 
-I'm a geography student at UF being introduced to Github codespaces and pages. I'm saying hello to the world for this project since it's the beginning of my coding journey in GIS4102C where we visit web development basics!
+I'm a geography student at UFL being introduced to Github codespaces and pages. I'm saying hello for this project since it's the beginning of my coding journey in GIS4102C where we visit web development basics!
 
 ## Project Description
 
